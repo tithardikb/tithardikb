@@ -1,5 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Hardik Bangoria 👋</h1>
+<h3 align="center">Head of Mobile Team @ Treesha Infotech</h3>
 
 <!-- Introduction -->
 <p align="center">🚀 Experienced iOS Developer | 📱 Mobile App Enthusiast | 🌱 Lifelong Learner</p>
