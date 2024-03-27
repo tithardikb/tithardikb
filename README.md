@@ -13,9 +13,6 @@
   <a href="mailto:hardik@treeshainfotech.com">
     <img src="https://img.shields.io/badge/Email-hardik%40treeshainfotech.com-red?style=flat-square&logo=gmail" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/hardik-bangoria">
-    <img src="https://img.shields.io/badge/LinkedIn-Hardik%20Bangoria-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
   <a href="https://github.com/tithardikb">
     <img src="https://img.shields.io/badge/GitHub-tithardikb-darkgreen?style=flat-square&logo=github" alt="GitHub">
   </a>
